@@ -1,0 +1,4 @@
+my.response.keys, my.response.rt, my.trials.thisRepN, my.trials.thisTrialN, my.trials.thisN, my.trials.thisIndex, my.trials.ran, my.trials.order, stimulus, participant, condition, date, expName, frameRate
+4, 2.228999999999999, 1, 0, 3, 2, 1, 2, choice3_1.png, 2, 1, Tue Jul 24 2018 22:25:54 GMT+0800 (中国标准时间), choiceRTT, 60
+5, 1.2859999999999943, 1, 0, 3, 2, 1, 2, choice3_1.png, 2, 1, Tue Jul 24 2018 22:25:54 GMT+0800 (中国标准时间), choiceRTT, 60
+3, 1.6219999999999999, 1, 0, 3, 2, 1, 2, choice3_1.png, 2, 1, Tue Jul 24 2018 22:25:54 GMT+0800 (中国标准时间), choiceRTT, 60
